@@ -120,6 +120,16 @@ nav.navbar {
     color: rgba(149, 147, 147, 0.2)
 }
 
+
+/* FLEX */
+
+.center_center {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+
 /* REVIEW SECTION */
 
 #review {
