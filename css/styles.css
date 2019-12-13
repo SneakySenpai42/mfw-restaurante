@@ -217,3 +217,46 @@ nav.navbar {
 #menu .nav-tabs li a {
     border: none;
 }
+
+/* contact form */
+
+.contact-form {
+    background-color: #ff6633;
+    color: #fff;
+    border: 1px solid;
+}
+
+.contact_form {
+    padding: 5% 0;
+}
+
+.contact_form span {
+    color: #ff0d06
+}
+
+#contact {
+    background-color: #f8512f;
+}
+
+#contact h1 {
+    font-weight: 700;
+    font-size: 4rem;
+}
+
+#contact p {
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+#contact_fine_print {
+    font-size: 0.825rem !important;
+    text-align: center;
+}
+
+address {
+    font-weight: 300;
+}
+
+.contact_bottom {
+    
+}
